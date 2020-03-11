@@ -26,7 +26,7 @@ SECRET_KEY = 'vq@tkqj6q#8(6_y1bl=!*2ayt_0q3hg9q(nqs3b-vdc=!o*$!h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','https://djang-todo-asif.herokuapp.com/']
+ALLOWED_HOSTS = ['localhost', 'djang-todo-asif.herokuapp.com']
 
 
 # Application definition
